@@ -15,34 +15,33 @@ There is generally an `AGENTS.md` in each sub-directory to explicitly describe h
 
 ### Common components
 
-**Environment**: see /environment/
+### Environment: see /environment/
 
-**Players**: see /players/
+### Players: see /players/
 
 Use for tracking player characters, for levelling encounters etc
 
 > Update all players to Level 6 before we start the new session. FooBar is now a Chronurgy Wizard.
 
-**Npcs**: see /npcs/
+### Npcs: see /npcs/
 
 Use for tracking NPCs. 
 
 > Add a new NPC: `Torgana Yomama` a spy from Zooma who wants to get the players to do a job. 
 
-**Ideas**: see /ideas/
+### Ideas: see /ideas/
 
 Help you brainstorm ideas for sessions, from a kernal of an idea. For example: 
 
 > Help me create some ideas for sessions where the players have to solve a riddle to understand how the environmental dangers will change from round to round. 
 
-
-**Items**: see /items/
+### Items:  see /items/
 
 Use for making & tracking custom-made special items etc.
 
 > Add a new magical item for Torgana, something that will help him on defense. Legendary level. 
 
-**Sessions**: see /sessions/
+### Sessions*: see /sessions/
 
 Helps you set up and run a given session. Fairly structured with templates for: 
  - setup_gm: what you as a GM need to know about running the session. Also inspects the previous sessions *notes.md* 
