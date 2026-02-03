@@ -1,0 +1,33 @@
+# MkDocs build outputs
+/docs/
+/site/
+
+# Obsidian
+.obsidian
+.obsdian/workspace.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak

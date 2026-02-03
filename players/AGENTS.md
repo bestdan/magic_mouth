@@ -1,0 +1,21 @@
+---
+tags: [documentation, meta, player-characters]
+content_type: instructions
+audience: ai-agents
+created: 2025-11-21
+updated: 2025-11-21
+---
+
+# AGENTS: players/
+
+Use this when updating the roster. Keep entries consistent so sessions can reference them quickly.
+
+## Load This Context First
+- `AGENTS.md` for global rules.
+- `players/characters.md` as the source of truth.
+
+## Update Rules
+- Track status: active, absent, injured, dead, or freed; note session references.
+- Record class/role, notable fighting style, and crowd perception.
+- Capture ongoing arcs (debts, patron ties, rivalries) using Obsidian wiki-link syntax to reference sessions or NPCs.
+- Keep notes concise and scannable; avoid duplicating prose from sessions.
